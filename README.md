@@ -79,3 +79,10 @@ analysis are required.
 
 This project emphasizes clarity, structure, and correctness in SQL
 query design.
+
+## Note:
+The SQL concepts practiced in this repository were learned through
+structured learning resources. The queries were implemented and
+organized independently to demonstrate understanding of relational
+and analytical SQL concepts.
+
