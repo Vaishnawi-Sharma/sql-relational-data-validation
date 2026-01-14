@@ -1,6 +1,6 @@
 CREATE DATABASE SQL_JOIN;
 
-/*When We need to find out details that are scattered along multiple tables in SQL 
+/* When We need to find out details that are scattered along multiple tables in SQL 
 then we need to bring all of that tables together , And for this we use Join.
 For Writing a single Query that can access records from multiple tables .
 
