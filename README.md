@@ -2,7 +2,7 @@
 
 This repository contains a structured collection of SQL scripts that
 demonstrate relational database design, data validation, and analytical
-querying using realistic business-style datasets.
+querying using simulated business-style datasets.
 
 The project is organized into multiple SQL files, each focusing on a
 specific aspect of SQL used in backend systems, QA/SDET validation, and
