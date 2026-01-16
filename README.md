@@ -1,4 +1,4 @@
-# SQL Relational Data Validation & Analytics
+# SQL Relational Data Validation 
 
 This repository contains a structured collection of SQL scripts that
 demonstrate relational database design, data validation, and analytical
